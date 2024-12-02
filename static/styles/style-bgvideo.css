@@ -1,0 +1,15 @@
+div.bgvideo video{
+    width: 100%;
+    height: 50vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    z-index: 1;
+}
+div.bgvideo{
+    width: 100%;
+    height: 50vh;
+    position: relative;
+    display: flex;
+}
