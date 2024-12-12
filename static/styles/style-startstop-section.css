@@ -54,26 +54,26 @@ p{
     display: inline;
     cursor: pointer;
 }
-.start-list div.first:active .first-img, .start-list2 div.first:active .first-img, .start-list3 div.first:active .first-img, .start-list4 div.first:active .first-img, .start-list5 div.first:active .first-img{
+.start-list div.first:hover .first-img, .start-list2 div.first:hover .first-img, .start-list3 div.first:hover .first-img, .start-list4 div.first:hover .first-img, .start-list5 div.first:hover .first-img{
     display: inline;
 }
-.start-list div.fueltap:active .fueltap-img, .start-list2 div.fueltap:active .fueltap-img, .start-list3 div.fueltap:active .fueltap-img, .start-list4 div.fueltap:active .fueltap-img, .start-list5 div.fueltap:active .fueltap-img{
+.start-list div.fueltap:hover .fueltap-img, .start-list2 div.fueltap:hover .fueltap-img, .start-list3 div.fueltap:hover .fueltap-img, .start-list4 div.fueltap:hover .fueltap-img, .start-list5 div.fueltap:hover .fueltap-img{
     display: inline;
 }
-.start-list div.suction:active .suction-img, .start-list2 div.suction:active .suction-img, .start-list3 div.suction:active .suction-img, .start-list4 div.suction:active .suction-img, .start-list5 div.suction:active .suction-img{
+.start-list div.suction:hover .suction-img, .start-list2 div.suction:hover .suction-img, .start-list3 div.suction:hover .suction-img, .start-list4 div.suction:hover .suction-img, .start-list5 div.suction:hover .suction-img{
     display: inline;
 }
-.start-list div.second:active .second-img, .start-list2 div.second:active .second-img, .start-list3 div.second:active .second-img, .start-list4 div.second:active .second-img, .start-list5 div.second:active .second-img{
+.start-list div.second:hover .second-img, .start-list2 div.second:hover .second-img, .start-list3 div.second:hover .second-img, .start-list4 div.second:hover .second-img, .start-list5 div.second:hover .second-img{
     display: inline;
 }
 
-.start-list div.third:active .third-img, .start-list2 div.third:active .third-img, .start-list3 div.third:active .third-img, .start-list4 div.third:active .third-img, .start-list5 div.third:active .third-img{
+.start-list div.third:hover .third-img, .start-list2 div.third:hover .third-img, .start-list3 div.third:hover .third-img, .start-list4 div.third:hover .third-img, .start-list5 div.third:hover .third-img{
     display: inline;
 }
-.start-list div.candle:active .candle-img, .start-list2 div.candle:active .candle-img, .start-list3 div.candle:active .candle-img, .start-list4 div.candle:active .candle-img, .start-list5 div.candle:active .candle-img{
+.start-list div.candle:hover .candle-img, .start-list2 div.candle:hover .candle-img, .start-list3 div.candle:hover .candle-img, .start-list4 div.candle:hover .candle-img, .start-list5 div.candle:hover .candle-img{
     display: inline;
 }
-.start-list div.transfer:active .transfer-img, .start2-list div.transfer:active .transfer-img, .start-list3 div.transfer:active .transfer-img, .start-list4 div.transfer:active .transfer-img, .start-list5 div.transfer:active .transfer-img{
+.start-list div.transfer:hover .transfer-img, .start2-list div.transfer:hover .transfer-img, .start-list3 div.transfer:hover .transfer-img, .start-list4 div.transfer:hover .transfer-img, .start-list5 div.transfer:hover .transfer-img{
     display: inline;
 }
 
