@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+div.main-list a{
+  color: black;
+}
+div.main-list a:hover{
+  font-weight: bold;
+}
+li{
+  list-style-type:decimal;
+}
+@media(max-width:800px){
+  div.main-list{
+    margin-top: 4em;
+  }
+  
+}
