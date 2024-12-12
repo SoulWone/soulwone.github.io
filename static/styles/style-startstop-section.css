@@ -1,0 +1,84 @@
+
+h1, h2{
+    margin-left: 10px ;
+}
+div.section li{
+    margin-top: 10px;
+}
+div.section img{
+    display: none;
+    width: 100%;
+}
+li{
+    list-style-type:decimal;
+  }
+p{
+    margin-left: 10px ;
+}
+
+.start-list div, .start-list2 div, .start-list3 div, .start-list4 div, .start-list5 div{
+    display: inline;
+}
+.first{
+    color: red;
+    display: inline;
+    cursor: pointer
+}
+.fueltap{
+    color: green;
+    display: inline;
+    cursor: pointer
+}
+.suction{
+    color: blue;
+    display: inline;
+    cursor: pointer
+}
+.third{
+    color: purple;
+    display: inline;
+    cursor: pointer
+}
+.second{
+    color: cyan;
+    display: inline;
+    cursor: pointer
+}
+.candle{
+    color: orange;
+    display: inline;
+    cursor: pointer  
+}
+.transfer{
+    color:darkgray;
+    display: inline;
+    cursor: pointer;
+}
+.start-list div.first:hover .first-img, .start-list2 div.first:hover .first-img, .start-list3 div.first:hover .first-img, .start-list4 div.first:hover .first-img, .start-list5 div.first:hover .first-img{
+    display: inline;
+}
+.start-list div.fueltap:hover .fueltap-img, .start-list2 div.fueltap:hover .fueltap-img, .start-list3 div.fueltap:hover .fueltap-img, .start-list4 div.fueltap:hover .fueltap-img, .start-list5 div.fueltap:hover .fueltap-img{
+    display: inline;
+}
+.start-list div.suction:hover .suction-img, .start-list2 div.suction:hover .suction-img, .start-list3 div.suction:hover .suction-img, .start-list4 div.suction:hover .suction-img, .start-list5 div.suction:hover .suction-img{
+    display: inline;
+}
+.start-list div.second:hover .second-img, .start-list2 div.second:hover .second-img, .start-list3 div.second:hover .second-img, .start-list4 div.second:hover .second-img, .start-list5 div.second:hover .second-img{
+    display: inline;
+}
+
+.start-list div.third:hover .third-img, .start-list2 div.third:hover .third-img, .start-list3 div.third:hover .third-img, .start-list4 div.third:hover .third-img, .start-list5 div.third:hover .third-img{
+    display: inline;
+}
+.start-list div.candle:hover .candle-img, .start-list2 div.candle:hover .candle-img, .start-list3 div.candle:hover .candle-img, .start-list4 div.candle:hover .candle-img, .start-list5 div.candle:hover .candle-img{
+    display: inline;
+}
+.start-list div.transfer:hover .transfer-img, .start2-list div.transfer:hover .transfer-img, .start-list3 div.transfer:hover .transfer-img, .start-list4 div.transfer:hover .transfer-img, .start-list5 div.transfer:hover .transfer-img{
+    display: inline;
+}
+
+@media (max-width:800px) {
+    h1{
+        margin-top: 2.5em;
+    }
+}
