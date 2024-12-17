@@ -18,6 +18,7 @@ p{
 
 .start-list div, .start-list2 div, .start-list3 div, .start-list4 div, .start-list5 div{
     display: inline;
+    user-select: none;
 }
 .first{
     color: red;
