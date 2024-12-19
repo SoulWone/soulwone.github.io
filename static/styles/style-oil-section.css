@@ -39,6 +39,9 @@ div.service-list3 div.oilcontrol11{
     display: inline;
     cursor: pointer
 }
+div.service-list div, div.service-list2, div.service-list3{
+    user-select:none;
+}
 
 @media (max-width:800px) {
     h1{
