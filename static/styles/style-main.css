@@ -1,0 +1,30 @@
+div.section{
+    z-index: -1;
+}
+div.main-img{
+    display: none;
+    position: relative;
+    display: block;
+}
+div.section img{
+    width: 100%;
+}
+div.main-text{
+    font-size: 2rem;
+    position: absolute;
+    top: 0;
+    width: 50%;
+
+}
+div.section a{
+    color: white;
+}
+@media(max-width:1024px){
+    div.main-text{
+        font-size: 1rem;
+    }
+@media(max-width:425px){
+    div.main-text{
+        font-size: 0.5rem;
+    }
+}
