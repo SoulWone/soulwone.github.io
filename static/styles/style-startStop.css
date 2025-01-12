@@ -1,0 +1,9 @@
+div.section h1, h2{
+    text-align: center;
+}
+div.section li{
+    margin-top: 10px;
+}
+div.section ul{
+    list-style-type: decimal;
+}
