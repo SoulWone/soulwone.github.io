@@ -1,0 +1,37 @@
+div.section h1, h2{
+    text-align: center;
+}
+div.section li{
+    margin-top: 10px;
+}
+div.section ul{
+    list-style-type: decimal;
+}
+div.main-text{
+    /* filter: blur(0.3rem); */
+    display: flex;
+    flex-direction: column;
+}
+div.imgs{
+    position: fixed;
+    z-index: 98;
+    /* display: flex; */
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    
+}
+div.imgs img{
+    position: relative;
+    margin-inline: auto;
+    top:20vh ;
+    z-index: 99;
+    width: 50vw;
+    height: 50vh;
+    
+}
+div.fueltap{
+    display: inline;
+    color: #2455c3;
+    cursor: pointer;
+}
