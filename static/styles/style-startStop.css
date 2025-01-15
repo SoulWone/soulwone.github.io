@@ -6,6 +6,7 @@ div.section li{
 }
 div.section ul{
     list-style-type: decimal;
+    color:black;
 }
 div.main-text{
     /* filter: blur(0.3rem); */
