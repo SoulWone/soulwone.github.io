@@ -32,6 +32,7 @@ div.navbar{
     position: sticky;
     top: 0;
     border-bottom: 1px solid #ddd;
+    opcaity:0.95;
 }
 div.section{
     grid-row: 2;
