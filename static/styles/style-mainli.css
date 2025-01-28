@@ -1,0 +1,51 @@
+div.section h1, h2{
+    text-align: center;
+}
+div.section li{
+    margin-top: 1vw;
+    margin-left: 1vw;
+}
+div.main-text p{
+    margin-bottom: 5vh;
+
+}
+div.section ul{
+    list-style-type: decimal;
+}
+div.main-text{
+    /* filter: blur(0.3rem); */
+    display: flex;
+    flex-direction: column;
+}
+div.imgs{
+    position: fixed;
+    z-index: 98;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    left: 0;
+}
+div.imgs img{
+    position: relative;
+    margin-inline: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    z-index: 99;
+    width: 80vw;
+    height: 70vh;
+    
+    
+}
+div.main-text div div{
+    margin: 0;
+    display: inline;
+    color: #2455c3;
+    cursor: pointer;
+}
+div.main-text div{
+    background-color: #ddd;
+    margin-inline: 5vw;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    border-radius: 3vw;
+}
